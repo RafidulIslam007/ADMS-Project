@@ -1,0 +1,15 @@
+[
+    {
+        "id":1,
+        "name":"Dr. Md. Ali Akbar",
+        "speciality":"Ophtalmologist",
+        "pic":"https://static.thenounproject.com/png/1743561-200.png",
+        "degree":"",
+        "about":"lorem50",
+        "experience":1,
+        "available":true,
+        "fee":1000,
+        "icon":"fa-solid fa-eye"
+    }
+     
+]
